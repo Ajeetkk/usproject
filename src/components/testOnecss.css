@@ -1,0 +1,10 @@
+.nav-link.active {
+    color: #1c6eb5 !important;
+}
+.nav-item {
+    color: #495057 !important;
+    border-top: 1px solid #dee2e6 !important;
+    border-left: 1px solid #dee2e6 !important;
+    border-right: 1px solid #dee2e6 !important;
+    margin: 1px;
+}

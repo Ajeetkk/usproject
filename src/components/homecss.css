@@ -1,0 +1,48 @@
+/* .slideSideBar:hover{
+    color:red;
+    width: 600px
+}
+ul{
+    background: red;
+    width: 5%;
+}
+ li:hover{
+    width: 10%;
+}
+.hover{
+    opacity: 0;
+} */
+.driwer{
+    float: left;
+    list-style: none;
+    
+    
+}
+.firstListElement{
+    padding-left: 32px;
+    background: #e3f4f5;
+    padding-right: 32px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+li{
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+/* li a{
+    text-decoration: none;
+} */
+.sideLink{
+    text-decoration: none !important;
+    color: #495057 !important;
+}
+
+.contentDsplay{
+    margin-left: 10px;
+    
+}
